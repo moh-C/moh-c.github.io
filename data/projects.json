@@ -1,0 +1,136 @@
+{
+  "projects": [
+    {
+      "id": "insightbench",
+      "number": "01",
+      "title": "InsightBench: Business Analytics Agents",
+      "shortDescription": "Published at ICLR 2025 - Multi-step insight generation system for business analytics.",
+      "fullDescription": "Multi-step insight generation system for business analytics agents through complex reasoning tasks.",
+      "venue": "ICLR 2025",
+      "date": "2025",
+      "details": [
+        "Developed evaluation framework for business analytics agents through complex reasoning tasks",
+        "Implemented advanced prompt engineering and fine-tuning techniques using PyTorch",
+        "Built scalable system for multi-step insight generation",
+        "Integrated modern LLM frameworks for production deployment"
+      ],
+      "technologies": ["Python", "PyTorch", "LLM Frameworks", "Prompt Engineering", "Fine-tuning"],
+      "links": {
+        "details": "projects.html#insightbench",
+        "paper": "#",
+        "github": "https://github.com/moh-C/insightbench",
+        "demo": "#"
+      }
+    },
+    {
+      "id": "rag-healthcare",
+      "number": "02",
+      "title": "RAG-Powered Healthcare Assistant",
+      "shortDescription": "Built retrieval-augmented generation system for medical queries using Llama-2 at UBC Innovation Support Unit.",
+      "fullDescription": "Built retrieval-augmented generation system for medical queries using Llama-2, reducing hallucinations in domain-specific healthcare queries.",
+      "venue": "UBC Innovation Support Unit",
+      "date": "Nov 2023 - Jan 2024",
+      "details": [
+        "Engineered sophisticated prompts for GPT-4 to improve response quality",
+        "Implemented Retrieval Augmented Generation (RAG) for Llama-2",
+        "Reduced hallucinations in domain-specific healthcare queries",
+        "Improved response relevance for chronic fatigue activity recommendations",
+        "Integrated vector database optimization for medical knowledge retrieval"
+      ],
+      "technologies": ["Python", "Llama-2", "GPT-4", "RAG", "Vector Databases", "Prompt Engineering"],
+      "links": {
+        "details": "projects.html#rag-healthcare",
+        "github": "#",
+        "demo": "#"
+      }
+    },
+    {
+      "id": "tiny-rfnet",
+      "number": "03",
+      "title": "Tiny-RFNet: Edge Signal Classification",
+      "shortDescription": "Published at CPSAT 2024 - Modulation classification of radio signals on edge systems.",
+      "fullDescription": "Modulation classification of radio signals on edge systems optimized for Jetson Orin Nano devices.",
+      "venue": "CPSAT 2024",
+      "date": "2024",
+      "details": [
+        "Developed lightweight neural network for radio frequency signal classification",
+        "Optimized for Jetson Orin Nano edge deployment",
+        "Implemented quantization and pruning techniques for edge hardware",
+        "Achieved significant performance improvements on resource-constrained devices",
+        "Published research findings at CPSAT 2024 conference"
+      ],
+      "technologies": ["Python", "PyTorch", "Jetson Orin Nano", "Quantization", "Pruning", "Edge Computing"],
+      "links": {
+        "details": "projects.html#tiny-rfnet",
+        "paper": "#",
+        "github": "#"
+      }
+    },
+    {
+      "id": "dsp-iot",
+      "number": "04",
+      "title": "Real-Time DSP for IoT Applications",
+      "shortDescription": "Advanced signal processing algorithms for mindful breathing applications at Prism Technology Holdings.",
+      "fullDescription": "Advanced signal processing algorithms for mindful breathing applications with real-time analysis and device connectivity.",
+      "venue": "Prism Technology Holdings",
+      "date": "Jan 2022 - Apr 2022",
+      "details": [
+        "Implemented advanced DSP algorithms for chest movement detection",
+        "Optimized code performance through multi-threading",
+        "Integrated Bluetooth Low Energy (BLE) connectivity",
+        "Enabled real-time analysis and seamless data streaming",
+        "Reduced processing time for real-time applications"
+      ],
+      "technologies": ["Python", "DSP", "Bluetooth Low Energy", "Multi-threading", "Signal Processing", "IoT"],
+      "links": {
+        "details": "projects.html#dsp-iot",
+        "github": "#",
+        "demo": "#"
+      }
+    },
+    {
+      "id": "robotics-wildfire",
+      "number": "05",
+      "title": "Robotics Wildfire Simulation",
+      "shortDescription": "Robotic systems for wildfire response using Jetson Orin Nano with Zed Camera integration.",
+      "fullDescription": "Robotic systems simulation for wildfire response using Jetson Orin Nano with Zed Camera integration.",
+      "venue": "UVic AI / CUCAI 2024",
+      "date": "2024",
+      "details": [
+        "Developed robotic systems using Jetson Orin Nano with Zed Camera integration",
+        "Contributed to robotic arm design and programming",
+        "Implemented computer vision algorithms for wildfire detection",
+        "Presented work at CUCAI 2024 conference",
+        "Prepared for Canadian International Robotics Competition (CIRC 2024)"
+      ],
+      "technologies": ["Python", "Jetson Orin Nano", "Zed Camera", "Computer Vision", "Robotics", "ROS"],
+      "links": {
+        "details": "projects.html#robotics-wildfire",
+        "github": "#",
+        "presentation": "#"
+      }
+    },
+    {
+      "id": "ml-leadership",
+      "number": "06",
+      "title": "ML Executive Leadership",
+      "shortDescription": "Led multiple ML projects at UVic AI, delivered presentations on LLMs and robotics at CUCAI 2024.",
+      "fullDescription": "Led multiple ML projects at UVic AI, delivered presentations on LLMs and robotics at CUCAI 2024.",
+      "venue": "UVic AI",
+      "date": "2023 - Present",
+      "details": [
+        "Led multiple machine learning projects and initiatives",
+        "Delivered technical presentations at CUCAI 2024",
+        "Mentored team members in LLM applications",
+        "Coordinated robotics research efforts",
+        "Organized workshops and training sessions"
+      ],
+      "technologies": ["Python", "LLMs", "Robotics", "Leadership", "Presentations"],
+      "links": {
+        "details": "projects.html#ml-leadership",
+        "more": "#"
+      }
+    }
+  ]
+}
+

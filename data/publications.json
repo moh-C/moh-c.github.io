@@ -1,0 +1,91 @@
+{
+  "publications": [
+    {
+      "id": "insightbench",
+      "number": "01",
+      "title": "InsightBench: Evaluating Business Analytics Agents Through Multi-Step Insight Generation",
+      "venue": "ICLR 2025",
+      "date": "2025",
+      "authors": "Aaron Chegini, et al.",
+      "abstract": "Comprehensive evaluation framework for business analytics agents through multi-step insight generation. Published at ICLR 2025.",
+      "links": {
+        "details": "publications.html#insightbench",
+        "paper": "#",
+        "code": "#",
+        "dataset": "#"
+      }
+    },
+    {
+      "id": "nocnet",
+      "number": "02",
+      "title": "NoCSNet: Network-on-Chip Security Analysis Under Thermal DoS Attack With Deep Neural Network",
+      "venue": "NoCArc 2024",
+      "date": "2024",
+      "authors": "Co-author (3rd Author)",
+      "abstract": "Deep neural network approach for analyzing Network-on-Chip security under thermal DoS attacks. Published at NoCArc 2024.",
+      "links": {
+        "details": "publications.html#nocnet",
+        "paper": "#",
+        "code": "#"
+      }
+    },
+    {
+      "id": "tiny-rfnet",
+      "number": "03",
+      "title": "Tiny-RFNet: Enabling Modulation Classification of Radio Signals on Edge Systems",
+      "venue": "CPSAT 2024",
+      "date": "2024",
+      "authors": "Aaron Chegini (1st Author)",
+      "abstract": "Lightweight neural network for modulation classification of radio signals on edge systems. Optimized for Jetson Orin Nano. Published at CPSAT 2024.",
+      "links": {
+        "details": "publications.html#tiny-rfnet",
+        "paper": "#",
+        "code": "#",
+        "dataset": "#"
+      }
+    },
+    {
+      "id": "rfnet",
+      "number": "04",
+      "title": "RFNet: Fast and Efficient Neural Network for Modulation Classification of Radio Frequency Signals",
+      "venue": "ITU Journal 2023",
+      "date": "2023",
+      "authors": "Aaron Chegini (1st Author)",
+      "abstract": "Fast and efficient neural network for modulation classification of radio frequency signals. Published in ITU Journal 2023.",
+      "links": {
+        "details": "publications.html#rfnet",
+        "paper": "#",
+        "code": "#"
+      }
+    },
+    {
+      "id": "quantized-phase",
+      "number": "05",
+      "title": "Optimization of Quantized Phase Shifts for Reconfigurable Smart Surfaces Assisted Communication",
+      "venue": "IEEE CCNC 2022",
+      "date": "2022",
+      "authors": "Co-author (2nd Author)",
+      "abstract": "Optimization of quantized phase shifts for reconfigurable smart surfaces assisted communication. Published at IEEE CCNC 2022.",
+      "links": {
+        "details": "publications.html#quantized-phase",
+        "paper": "#",
+        "code": "#"
+      }
+    },
+    {
+      "id": "emotion-fmri",
+      "number": "06",
+      "title": "Emotion Recognition via fMRI-derived Brain States using Deep Neural Network",
+      "venue": "IHBM 2020",
+      "date": "2020",
+      "authors": "Co-author (2nd Author)",
+      "abstract": "Deep neural network approach for emotion recognition using fMRI-derived brain states. Published at IHBM 2020.",
+      "links": {
+        "details": "publications.html#emotion-fmri",
+        "paper": "#",
+        "code": "#"
+      }
+    }
+  ]
+}
+
